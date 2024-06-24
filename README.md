@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Valentina "ImValla".
+- 👀 I’m interested in videogames and programming.
+- 🌱 I’m currently learning Python and approaching frontend side.
+- 📫 I'm a SCADA Developer atm but want to approch different sides of codes.
+- ⚡ Facts: I'm in love with videogames (main hobby), tv series, make everything look good.
